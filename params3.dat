@@ -1,0 +1,6 @@
+Minimum tolerance (seconds):  500
+Maximum tolerance (seconds):  500
+Minimum service time (seconds):  300
+Maximum service time (seconds):  300
+Arrival Rate (seconds):  10
+Simulation time (seconds):  28800
